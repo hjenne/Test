@@ -61,5 +61,7 @@ def problem_3():
 		
 problem2 = itertools.product(range(5), repeat = 9)
 
-
+def problem_4():
+	print "We haven't done problem 4 yet"
+	return None
 
